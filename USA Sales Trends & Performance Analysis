@@ -1,0 +1,24 @@
+🗂️ Project Summary
+This Exploratory Data Analysis (EDA) project analyzes Acme Co.’s USA sales data (2014–2018) to uncover trends, performance drivers, and actionable business insights.
+
+🔍 Key Analysis Performed
+
+Data Profiling & Cleaning
+Validated dataset structure, handled missing budget values, corrected data types, and ensured data consistency.
+
+Univariate & Bivariate Analysis
+Analyzed distributions of key metrics such as revenue, profit margin, and unit price across products, sales channels, regions, and customer segments.
+
+Trend & Seasonality Analysis
+Examined monthly and yearly sales trends to identify recurring patterns, seasonal peaks, and low-performance periods.
+Outlier Detection
+Identified unusually high and low transactions in revenue and unit price to understand exceptional sales behavior.
+
+Correlation & Customer Segmentation
+Studied relationships between key metrics and segmented customers based on revenue and profit margin for performance comparison.
+
+❓ Problem Statement
+
+Analyze Acme Co.’s sales data from 2014 to 2018 to determine the primary factors influencing revenue and profitability across products, sales channels, and regions. Identify seasonal patterns, unusual transactions, and gaps between actual performance and budgeted targets. The goal is to generate insights that support effective pricing decisions, targeted promotions, and strategic market expansion while reducing reliance on limited revenue sources.
+
+
