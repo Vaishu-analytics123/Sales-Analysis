@@ -20,4 +20,5 @@ Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI, Google Colab
 - Average Order Value (AOV)
 
 ## Video
-Project Walkthrough: https://youtu.be/LOPnZclka0o
+Reference Project Walkthrough: https://youtu.be/LOPnZclka0o  
+Used for understanding project flow and analysis approach.
