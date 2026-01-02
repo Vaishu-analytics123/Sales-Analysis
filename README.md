@@ -1,10 +1,10 @@
-📊 Sales Data Analytics Project 
+#📊 Sales Data Analytics Project 
 
-📌 Overview
+#📌 Overview
 
 This project analyzes historical sales data to identify sales trends, evaluate key performance indicators, and generate actionable business insights. The analysis combines Python-based data processing with interactive Power BI visualizations.
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 Python: Pandas, NumPy, Matplotlib, Seaborn
 
