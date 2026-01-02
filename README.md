@@ -41,6 +41,7 @@ The Power BI dashboard provides interactive insights using filters and slicers t
 
 ![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/62b815beee89debc4a9f2c8349fd2c184c215472/Images/Page%203.png)
 
+
 ## 💡 Key Insights
 - A small number of high-value orders contribute significantly to total revenue  
 - Certain products and regions consistently outperform others  
