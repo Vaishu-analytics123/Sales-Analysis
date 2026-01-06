@@ -1,4 +1,4 @@
-# 📊 Sales Data Analytics Project
+# 📊 Regional Sales Analysis Project
 
 ## 📌 Overview
 This project analyzes historical sales data to identify sales trends, evaluate key performance indicators, and generate actionable business insights. The analysis combines Python-based data processing with interactive Power BI visualizations.
