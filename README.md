@@ -38,7 +38,7 @@ The Power BI dashboard provides interactive insights using filters and slicers t
 ![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/2ef51a529d06dca8f42fffead209eecf385e45a5/Image/Page%201.png)
 ---
 
-![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/90e301b2e36f76a7e11ccfa5da2963f03ff93b58/Images/Page%202.png)
+![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/222f6c0e5d6f6640af9715d971d9feac3220e9c0/Image/Page%202.png)
 
 
 ![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/62b815beee89debc4a9f2c8349fd2c184c215472/Images/Page%203.png)
