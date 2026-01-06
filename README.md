@@ -35,7 +35,7 @@ This project analyzes historical sales data to identify sales trends, evaluate k
 ## 📊 Power BI Dashboard
 The Power BI dashboard provides interactive insights using filters and slicers to analyze sales performance across time, regions, and products.
 
-![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/2ed95053bab4bcf471c4e19a1843d3f20824b5ab/Images/Page%201.png)
+![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/tree/7c29d31cec530d44adfeaac59a4ad7ff89a1ec73/Image)
 ---
 
 ![Executive Overview & Trends](https://github.com/Vaishu-analytics123/Sales-Analysis/blob/90e301b2e36f76a7e11ccfa5da2963f03ff93b58/Images/Page%202.png)
